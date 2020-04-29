@@ -1,0 +1,67 @@
+q1: On est confiné pour
+	option1: toujours
+	option2: 1 mois
+	option3: 1 an 
+	option4: 3 mois
+
+
+q2: le corona est :
+	option1: un virus
+	option2: un microbe
+	option3: une maladie
+	option4: un pandemie
+
+
+q3: Le premier pays infecté est 
+	option1: chilie
+	option2:  USA
+	option3: la chine
+	option4: Italie
+
+
+q4: On doit extenué dans :
+	option1: nos mains 
+	option2: une serviette 
+	option3: le coudre
+	option4: notre maison
+
+
+q5: On doit éviter de :
+	option1: se parler 
+	option2: se voir
+	option3: s'embraaser
+	option4: de manger
+
+
+
+{
+	q:'La distance requis entre deux personnes est?',
+	options:['1m', '3m', '2m', '2km'],
+	answer:2
+},
+
+{
+	q:'On se lave les mains:',
+	options:['Souvent', 'Parfois', 'Si on veut', 'Chaque 30minutes'],
+	answer:0
+},
+
+
+{
+	q:'Est ce que les personnes de couleur sont épargnée ?',
+	options:['Non', 'Peut etre', 'Je sais', 'Oui'],
+	answer:0
+},
+
+{
+	q:'Le CORONA  est considérée comme ',
+	options:['Une malediction', 'Une pandemie', 'La fin du monde', 'Une catastrophe'],
+	answer:1
+},
+
+
+{
+	q:'Quel type de personne sont vulnerable au virus CORONA?',
+	options:['Les enfants', 'les vieux', 'Les jeunes', 'Tout le monde'],
+	answer:1
+},
